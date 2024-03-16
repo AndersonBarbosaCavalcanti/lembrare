@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>861738353258-k0cnfqb6q9c6tufalc7m0pb7qfnqjo9a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.861738353258-k0cnfqb6q9c6tufalc7m0pb7qfnqjo9a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>861738353258-22uq5c238rhrihcvqn3gqgafg2penbiv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2U23Im2LYDgnlaC7obImRpcO2wmunhTs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>861738353258</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.cardmakerlembrare</string>
+	<key>PROJECT_ID</key>
+	<string>lembrare-69b76</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lembrare-69b76.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:861738353258:ios:b98d9b99bfe58c2c7c0013</string>
+</dict>
+</plist>

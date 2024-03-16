@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "861738353258",
+    "project_id": "lembrare-69b76",
+    "storage_bucket": "lembrare-69b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861738353258:android:ddc9af0adb87e0227c0013",
+        "android_client_info": {
+          "package_name": "com.mycompany.cardmakerlembrare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861738353258-22uq5c238rhrihcvqn3gqgafg2penbiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cardmakerlembrare",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "861738353258-nnuk7me57sqb4lcnuou27datlp3euej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZHvSx1qWPeQFlgITabr5Thn6YfMA8cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861738353258-4dg600dsk6do25avrkamkbptttbpo8bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861738353258-2kbhtq02dhin788e7fee9ihatjltagjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.lembrare0901"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861738353258:android:0552ad60f802fd617c0013",
+        "android_client_info": {
+          "package_name": "com.mycompany.lembrare0901"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861738353258-a6nk6smb3gou16mubc8cf50chvvrdr2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.lembrare0901",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "861738353258-nnuk7me57sqb4lcnuou27datlp3euej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZHvSx1qWPeQFlgITabr5Thn6YfMA8cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861738353258-4dg600dsk6do25avrkamkbptttbpo8bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861738353258-2kbhtq02dhin788e7fee9ihatjltagjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.lembrare0901"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

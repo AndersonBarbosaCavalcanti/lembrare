@@ -1,0 +1,184 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "deck",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "escola",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "decknome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "sub",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "deckcode",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "subnome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "escola",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "escolanome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "deck",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "escola",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "deck",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "escola",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "decknome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "sub",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "deckcode",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "subnome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "subsub",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "subcode",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "subsubnome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "deck",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "decknome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "escola",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "escolacode",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "escolanome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "subsub",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "subcode",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "subsubnome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "sub",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "deckcode",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "subsub",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "desativado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "subsubnome",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
